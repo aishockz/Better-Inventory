@@ -233,7 +233,7 @@ function makeVueChanges() {
 				return 'fas fa-share';
 			}
 			if (this.isPromo) {
-				return 'fas fa-ad';
+				return 'fas fa-dollar-sign hover';
 			}
 			if (this.isEvent) {
 				return 'fas fa-calendar-alt';
@@ -247,7 +247,7 @@ function makeVueChanges() {
 	comp_item.computed.iconHover = function() {
 		if (this.isVipItem || this.iconClass.includes("hover")) {
 			return () => {
-				//BAWK.play("ui_chicken");
+				BAWK.play("ui_chicken");
 			};
 		}
 		return ()=>{};
