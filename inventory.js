@@ -56,7 +56,7 @@ function makeVueChanges() {
 	// Cross-Promotional Item Check
 	// Best way to do this is through tagging
 	comp_item.computed.isPromo = function() {
-		return this.itemTags.includes(`item-tag-promo`);
+		return this.itemTags.includes(`item-tag-vip`);
 	}
 
 	// Event Item Check
