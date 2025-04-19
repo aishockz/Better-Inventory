@@ -19,7 +19,7 @@
 		{ "add": 1, "itemId": 15000,  "itemTags": ["promo"] },
 		{ "add": 1, "itemId": 15001,  "itemTags": ["promo"] },
 		{ "add": 1, "itemId": 15002,  "itemTags": ["promo"] },
-		//these were originally defaults ^
+
 		{ "add": 1, "itemId": 1054,  "itemTags": ["promo"] },
 		{ "add": 1, "itemId": 1161,  "itemTags": ["promo"] },
 		{ "add": 1, "itemId": 1162,  "itemTags": ["promo"] },
