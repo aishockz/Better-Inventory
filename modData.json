@@ -15,10 +15,11 @@
 	"tagEdits": [
 		{ "add": 0, "itemId": 2542,  "itemTags": ["May24"] },
 		{ "add": 0, "itemId": 2540,  "itemTags": ["May24"] },
-		{ "add": 1, "itemId": 3000,  "itemTags": ["vip"] },
-		{ "add": 1, "itemId": 15000,  "itemTags": ["vip"] },
-		{ "add": 1, "itemId": 15001,  "itemTags": ["vip"] },
-		{ "add": 1, "itemId": 15002,  "itemTags": ["vip"] },
+		{ "add": 1, "itemId": 3000,  "itemTags": ["promo"] },
+		{ "add": 1, "itemId": 15000,  "itemTags": ["promo"] },
+		{ "add": 1, "itemId": 15001,  "itemTags": ["promo"] },
+		{ "add": 1, "itemId": 15002,  "itemTags": ["promo"] },
+		//these were originally defaults ^
 		{ "add": 1, "itemId": 1054,  "itemTags": ["promo"] },
 		{ "add": 1, "itemId": 1161,  "itemTags": ["promo"] },
 		{ "add": 1, "itemId": 1162,  "itemTags": ["promo"] },
